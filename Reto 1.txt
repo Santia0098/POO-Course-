@@ -1,0 +1,33 @@
+Sistema de Adopcion:
+
+	PERRO
+		* Id
+		* Nombre
+		* Raza
+		* Edad
+		* Tamano
+		* Color
+		------------
+		estadoAdoptado()
+		
+	
+	REFUGIO
+		* Id
+		* Nombre
+		* Direccion
+		* Telefono
+		* Encargado
+		------------
+		darEnAdopcion()
+
+	Adoptante
+		* Id
+		* Nombre
+		* Direccion
+		* Edad
+		* Identificacion
+		* Fecha_Nacimiento
+		-------------
+		adoptar()
+		
+		
